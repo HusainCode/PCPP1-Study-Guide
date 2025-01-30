@@ -1,5 +1,5 @@
 # 🎯 PCPP1 Study Guide  
-My study notes and guides for the **PCPP1 (Python Certified Professional Programmer Level 1)** exam by the **Python Institute PI **.  
+My study notes and guides for the **PCPP1 (Python Certified Professional Programmer Level 1)** exam by the **Python Institute PI**.  
 
 ## 📌 Topics Covered
 ### 1️⃣ **Advanced OOP**
