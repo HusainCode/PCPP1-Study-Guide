@@ -1,3 +1,5 @@
+![Project Status](https://img.shields.io/badge/status-in_progress-yellow)
+
 # 🎯 PCPP1 Study Guide  
 My study notes and guides for the **PCPP1 (Python Certified Professional Programmer Level 1)** exam by the **Python Institute (PI)**.  
 
